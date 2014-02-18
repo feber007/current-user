@@ -1,0 +1,21 @@
+{
+  "name": "node-twinkle",
+  "version": "0.0.3",
+  "description": "Middleware for user session management.",
+  "main": "./lib",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:feber007/node-twinkle.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [ "user", "session", "login"],
+  "author": "Vincent Zhang",
+  "license": "MIT"
+}
